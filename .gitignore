@@ -1,6 +1,18 @@
-﻿/node_modules
-/dist
+﻿# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build
+dist/
+build/
+
+# Env
 .env
+
+# OS files
 .DS_Store
-frontend/node_modules
-backend/node_modules
+
+# Frontend Node Modules
+frontend/node_modules/
+backend/node_modules/
